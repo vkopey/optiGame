@@ -1,2 +1,2 @@
 # optiGame
-A simple environment for online competition to find the minimum function (for Python students).
+A simple environment for a network competition to find the minimum of a function (for Python students).
